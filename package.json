@@ -4,6 +4,7 @@
   "description": "An extension that automatically generates a Python code that can be used to rename bulk files",
   "version": "0.0.1",
   "publisher": "essel",
+  "icon": "icon.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/Rinneagan/Rinne.git"
