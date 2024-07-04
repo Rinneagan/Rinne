@@ -3,6 +3,7 @@
   "displayName": "Rinne",
   "description": "An extension that automatically generates a Python code that can be used to rename bulk files",
   "version": "0.0.1",
+  "publisher": "essel",
   "repository": {
     "type": "git",
     "url": "https://github.com/Rinneagan/Rinne.git"
